@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #F1F5F8;
+    width: 1349px;
+}
+
+.clear{
+    clear: both;
+}
+#header{
+    background: #0078D8;
+    width: 1349px;
+    height: 360px;
+}
+
+#header .content{
+
+    width: 746px;
+    height: 360px;
+    margin: auto;
+    position: relative;
+}
+
+#logo{
+    background: url("../tupian/logo.png");
+    width: 345px;
+    height: 124px;
+    position: absolute;
+    top: 50%;
+    margin-top: -62px;
+}
+
+#title{
+    margin-top: 41px;
+
+}
+.title .left{
+    float: left;
+
+}
+
+.title .right{
+    float: right;
+
+}
+
+input{
+    text-align: left;
+    font-size: 20px;
+    margin: 1px  20px 0 60px;;
+}
+#form{
+    background: #800000;
+    width: 340px;
+    height: 359px;
+    float: right;
+}
+#center{
+    background: #ffff00;
+    width: 1349px;
+    height: 360px;
+    margin: 50px 0 50px ;
+}
+
+#footer{
+    background: #0000ff;
+    width: 1349px;
+    height: 41px;
+    padding: 0 0 60px;
+}
